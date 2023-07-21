@@ -15,4 +15,4 @@ Starter Code: [cautious-meme](https://github.com/coding-boot-camp/cautious-meme)
 
 ## Questions
 
-Reach out with any questions and inquiries at tomarmenta86@gmail.com. You can also find similar work at https://github.com/Tomarmenta86
+Reach out with any questions and inquiries at tomarmenta86@gmail.com. You can also find similar work at [Tomarmenta86](https://github.com/Tomarmenta86) on Github
